@@ -1,0 +1,16 @@
+{
+  "name": "red-bot",
+  "version": "0.1.0",
+  "description": "A Discord Bot.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "Mike Rudolph",
+  "license": "MIT"
+}
