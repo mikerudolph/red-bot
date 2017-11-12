@@ -5,11 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "discord.io": "^2.5.3",
+    "dotenv": "^4.0.0",
     "winston": "^2.4.0"
   },
   "devDependencies": {},
   "scripts": {
-    "run": "node index.js"
+    "start": "node index.js"
   },
   "author": "Mike Rudolph",
   "license": "MIT"
